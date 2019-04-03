@@ -1,0 +1,37 @@
+2019-04-03 16:15:26,438 : lr: 0.001
+2019-04-03 16:15:26,439 : gamma: 0.99
+2019-04-03 16:15:26,439 : tau: 1.0
+2019-04-03 16:15:26,439 : seed: 1
+2019-04-03 16:15:26,439 : workers: 7
+2019-04-03 16:15:26,440 : num_steps: 20
+2019-04-03 16:15:26,440 : max_episode_length: 10000
+2019-04-03 16:15:26,440 : env: Asterix-v0
+2019-04-03 16:15:26,440 : env_config: config.json
+2019-04-03 16:15:26,440 : shared_optimizer: True
+2019-04-03 16:15:26,440 : load: False
+2019-04-03 16:15:26,440 : save_max: True
+2019-04-03 16:15:26,441 : optimizer: Adam
+2019-04-03 16:15:26,441 : load_model_dir: trained_models/
+2019-04-03 16:15:26,441 : save_model_dir: trained_models/
+2019-04-03 16:15:26,441 : log_dir: logs/
+2019-04-03 16:15:26,441 : gpu_ids: [0]
+2019-04-03 16:15:26,441 : amsgrad: True
+2019-04-03 16:15:26,441 : skip_rate: 4
+2019-04-03 16:16:11,627 : Time 00h 00m 44s, episode reward 650.0, episode length 1970, reward mean 650.0000
+2019-04-03 16:16:36,514 : Time 00h 01m 09s, episode reward 200.0, episode length 786, reward mean 425.0000
+2019-04-03 16:17:22,231 : Time 00h 01m 55s, episode reward 650.0, episode length 1920, reward mean 500.0000
+2019-04-03 16:17:45,847 : Time 00h 02m 19s, episode reward 200.0, episode length 765, reward mean 425.0000
+2019-04-03 16:18:30,235 : Time 00h 03m 03s, episode reward 650.0, episode length 1950, reward mean 470.0000
+2019-04-03 16:18:54,260 : Time 00h 03m 27s, episode reward 200.0, episode length 787, reward mean 425.0000
+2019-04-03 16:19:25,191 : Time 00h 03m 58s, episode reward 400.0, episode length 1211, reward mean 421.4286
+2019-04-03 16:19:48,164 : Time 00h 04m 21s, episode reward 200.0, episode length 768, reward mean 393.7500
+2019-04-03 16:20:04,633 : Time 00h 04m 37s, episode reward 50.0, episode length 357, reward mean 355.5556
+2019-04-03 16:20:49,878 : Time 00h 05m 23s, episode reward 650.0, episode length 1950, reward mean 385.0000
+2019-04-03 16:21:13,882 : Time 00h 05m 47s, episode reward 200.0, episode length 788, reward mean 368.1818
+2019-04-03 16:21:59,857 : Time 00h 06m 33s, episode reward 650.0, episode length 1961, reward mean 391.6667
+2019-04-03 16:22:19,016 : Time 00h 06m 52s, episode reward 100.0, episode length 523, reward mean 369.2308
+2019-04-03 16:23:02,707 : Time 00h 07m 36s, episode reward 650.0, episode length 1936, reward mean 389.2857
+2019-04-03 16:23:18,927 : Time 00h 07m 52s, episode reward 50.0, episode length 361, reward mean 366.6667
+2019-04-03 16:24:03,956 : Time 00h 08m 37s, episode reward 650.0, episode length 1978, reward mean 384.3750
+2019-04-03 16:24:20,597 : Time 00h 08m 53s, episode reward 100.0, episode length 384, reward mean 367.6471
+2019-04-03 16:24:43,596 : Time 00h 09m 16s, episode reward 200.0, episode length 758, reward mean 358.3333
